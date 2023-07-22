@@ -1,67 +1,133 @@
-<mxfile host="app.diagrams.net" modified="2023-07-21T14:24:29.734Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="QbYCIt1_tydTtf2SY670" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-22T20:55:56.958Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="eJqVMF7xcu8ZrlBsZH0z" version="21.6.5" type="github">
   <diagram name="Page-1" id="52a04d89-c75d-2922-d76d-85b35f80e030">
-    <mxGraphModel dx="1100" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1760" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dr49KxV8g7Vcw9dEUzE0-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dr49KxV8g7Vcw9dEUzE0-1" target="dr49KxV8g7Vcw9dEUzE0-2">
+        <mxCell id="dr49KxV8g7Vcw9dEUzE0-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dr49KxV8g7Vcw9dEUzE0-1" target="dr49KxV8g7Vcw9dEUzE0-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="160" y="380" />
-              <mxPoint x="160" y="280" />
+              <mxPoint x="160" y="360" />
+              <mxPoint x="160" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dr49KxV8g7Vcw9dEUzE0-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dr49KxV8g7Vcw9dEUzE0-1" target="dr49KxV8g7Vcw9dEUzE0-11">
+        <mxCell id="dr49KxV8g7Vcw9dEUzE0-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dr49KxV8g7Vcw9dEUzE0-1" target="dr49KxV8g7Vcw9dEUzE0-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="160" y="380" />
-              <mxPoint x="160" y="470" />
+              <mxPoint x="160" y="360" />
+              <mxPoint x="160" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dr49KxV8g7Vcw9dEUzE0-1" value="GIT INIT inicia repositório local" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="350" width="120" height="60" as="geometry" />
+        <mxCell id="dr49KxV8g7Vcw9dEUzE0-1" value="GIT INIT&lt;br&gt;inicia repositório local" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dr49KxV8g7Vcw9dEUzE0-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dr49KxV8g7Vcw9dEUzE0-2" target="dr49KxV8g7Vcw9dEUzE0-8">
+        <mxCell id="dr49KxV8g7Vcw9dEUzE0-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dr49KxV8g7Vcw9dEUzE0-2" target="dr49KxV8g7Vcw9dEUzE0-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dr49KxV8g7Vcw9dEUzE0-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dr49KxV8g7Vcw9dEUzE0-2" target="dr49KxV8g7Vcw9dEUzE0-16">
+        <mxCell id="dr49KxV8g7Vcw9dEUzE0-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dr49KxV8g7Vcw9dEUzE0-2" target="dr49KxV8g7Vcw9dEUzE0-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="520" y="280" />
-              <mxPoint x="520" y="380" />
+              <mxPoint x="520" y="240" />
+              <mxPoint x="520" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dr49KxV8g7Vcw9dEUzE0-2" value="REMOTE ADD &amp;lt;nome_repo&amp;gt; &amp;lt;URL&amp;gt;&lt;br&gt;Adiciona conexão com repositório remoto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="250" width="280" height="60" as="geometry" />
+        <mxCell id="dr49KxV8g7Vcw9dEUzE0-2" value="REMOTE ADD &amp;lt;nome_repo&amp;gt; &amp;lt;URL&amp;gt;&lt;br&gt;Adiciona conexão com repositório remoto" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="200" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dr49KxV8g7Vcw9dEUzE0-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="411.25" y="-226.25" width="20" height="832.5" as="geometry" />
+        <mxCell id="dr49KxV8g7Vcw9dEUzE0-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="411.25" y="-254.06" width="20" height="832.5" as="geometry" />
         </mxCell>
-        <mxCell id="dr49KxV8g7Vcw9dEUzE0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dr49KxV8g7Vcw9dEUzE0-5" target="dr49KxV8g7Vcw9dEUzE0-4">
+        <mxCell id="dr49KxV8g7Vcw9dEUzE0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="dr49KxV8g7Vcw9dEUzE0-5" target="dr49KxV8g7Vcw9dEUzE0-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dr49KxV8g7Vcw9dEUzE0-5" value="Inicialização de Repositório" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="303.75" y="60" width="235" height="60" as="geometry" />
+        <mxCell id="dr49KxV8g7Vcw9dEUzE0-5" value="Inicialização de Repositório&lt;br&gt;Conexões de Repositório" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="281.25" y="40" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dr49KxV8g7Vcw9dEUzE0-8" value="REMOTE DELETE &amp;lt;nome_repo&amp;gt; &amp;lt;URL&amp;gt;&lt;br&gt;Deleta conexão com repositório remoto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="340" width="280" height="60" as="geometry" />
+        <mxCell id="dr49KxV8g7Vcw9dEUzE0-8" value="REMOTE DELETE &amp;lt;nome_repo&amp;gt; &amp;lt;URL&amp;gt;&lt;br&gt;Deleta conexão com repositório remoto" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="320" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dr49KxV8g7Vcw9dEUzE0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dr49KxV8g7Vcw9dEUzE0-11" target="dr49KxV8g7Vcw9dEUzE0-16">
+        <mxCell id="dr49KxV8g7Vcw9dEUzE0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dr49KxV8g7Vcw9dEUzE0-11" target="dr49KxV8g7Vcw9dEUzE0-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="520" y="470" />
-              <mxPoint x="520" y="380" />
+              <mxPoint x="520" y="480" />
+              <mxPoint x="520" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dr49KxV8g7Vcw9dEUzE0-11" value="GIT CLONE &amp;lt;URL&amp;gt;&lt;br&gt;Clora um repositório remoto com todas as configurações." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="440" width="280" height="60" as="geometry" />
+        <mxCell id="dr49KxV8g7Vcw9dEUzE0-11" value="GIT CLONE &amp;lt;URL&amp;gt;&lt;br&gt;Clora um repositório remoto com todas as configurações." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="440" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dr49KxV8g7Vcw9dEUzE0-16" value="GIT REMOTE -V&lt;br&gt;Verifica todos os repositórios remotos conectados ao repositório local" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="350" width="280" height="60" as="geometry" />
+        <mxCell id="dr49KxV8g7Vcw9dEUzE0-16" value="GIT REMOTE -V&lt;br&gt;Verifica todos os repositórios remotos conectados ao repositório local" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="561.25" y="320" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6Sw9gsjCaloPhcAIrw92-1" target="6Sw9gsjCaloPhcAIrw92-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1449.06" y="-455.94" width="20" height="1236.25" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6Sw9gsjCaloPhcAIrw92-6" target="6Sw9gsjCaloPhcAIrw92-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-6" value="GIT STATUS&lt;br&gt;Verifica como o repositório local se encontra." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="320" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6Sw9gsjCaloPhcAIrw92-9" target="6Sw9gsjCaloPhcAIrw92-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6Sw9gsjCaloPhcAIrw92-9" target="6Sw9gsjCaloPhcAIrw92-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-9" value="GIT RESTORE" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1245" y="440" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-11" value="GIT RESTORE &amp;lt;FILE&amp;gt;&lt;br&gt;Restaura a versão do arquivo que estavam para ser commitado" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="560" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-13" value="GIT RESTORE --STAGE&lt;br&gt;Restaura a versão de todos os arquivos que estavam para ser commitado" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="560" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="730" as="sourcePoint" />
+            <mxPoint x="840" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Sw9gsjCaloPhcAIrw92-17" target="6Sw9gsjCaloPhcAIrw92-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6Sw9gsjCaloPhcAIrw92-17" target="6Sw9gsjCaloPhcAIrw92-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-17" value="GIT ADD &amp;lt;FILE&amp;gt;&amp;nbsp;&lt;br&gt;Prepara o arquivo &amp;lt;FILE&amp;gt; para ser salvo.&lt;br&gt;GIT ADD .&lt;br&gt;Prepara todos os arquivos para serem salvos" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="320" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6Sw9gsjCaloPhcAIrw92-21" target="6Sw9gsjCaloPhcAIrw92-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6Sw9gsjCaloPhcAIrw92-21" target="6Sw9gsjCaloPhcAIrw92-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-21" value="GIT COMMIT -m &quot;TxT&quot;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="320" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-23" value="GIT COMMIT -m &quot;TXT&quot; --amend" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="440" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6Sw9gsjCaloPhcAIrw92-25" target="6Sw9gsjCaloPhcAIrw92-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-25" value="GIT PUSH -u &amp;lt;nome_repo&amp;gt; &amp;lt;nome_branch&amp;gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="320" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-27" value="GIT PUSH --ALL" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="440" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Sw9gsjCaloPhcAIrw92-29" value="Work flow simples" style="whiteSpace=wrap;html=1;align=center;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="40" width="280" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
