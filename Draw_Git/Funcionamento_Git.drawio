@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-23T12:46:43.836Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="75hn1GxCgXnnr12fwDId" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-23T12:47:08.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="WX1CFLKEAG2c7sLVGG9o" version="21.6.5" type="github">
   <diagram name="Page-1" id="52a04d89-c75d-2922-d76d-85b35f80e030">
     <mxGraphModel dx="2933" dy="1487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -140,6 +140,125 @@
         </mxCell>
         <mxCell id="R2i13-WL7xHDJArr6xPu-10" value="Trabalhando em equipe. Após o Push o git pode dar um erro de que os repositórios não estão sincronizados. Neste caso você terá que resolver o problema de merge. Para isso deve dar um &lt;b&gt;git pull&lt;/b&gt;." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2120" y="320" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R2i13-WL7xHDJArr6xPu-59" target="R2i13-WL7xHDJArr6xPu-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R2i13-WL7xHDJArr6xPu-59" target="R2i13-WL7xHDJArr6xPu-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R2i13-WL7xHDJArr6xPu-59" target="R2i13-WL7xHDJArr6xPu-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-59" value="Código Situacional" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="760" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-60" value="1. Verificação" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="R2i13-WL7xHDJArr6xPu-59">
+          <mxGeometry y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-61" value="2. Correção" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="R2i13-WL7xHDJArr6xPu-59">
+          <mxGeometry y="60" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-62" value="3. Branch" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="R2i13-WL7xHDJArr6xPu-59">
+          <mxGeometry y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R2i13-WL7xHDJArr6xPu-67" target="R2i13-WL7xHDJArr6xPu-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R2i13-WL7xHDJArr6xPu-67" target="R2i13-WL7xHDJArr6xPu-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R2i13-WL7xHDJArr6xPu-67" target="R2i13-WL7xHDJArr6xPu-91">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2110" y="1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R2i13-WL7xHDJArr6xPu-67" target="R2i13-WL7xHDJArr6xPu-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2110" y="1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-67" value="3. BRANCH" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="920" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-68" value="1. Criação" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="R2i13-WL7xHDJArr6xPu-67">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-69" value="2. Alteração" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="R2i13-WL7xHDJArr6xPu-67">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-70" value="3. Exclusão" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="R2i13-WL7xHDJArr6xPu-67">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-71" value="4. Info RL x RR" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="R2i13-WL7xHDJArr6xPu-67">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R2i13-WL7xHDJArr6xPu-75" target="R2i13-WL7xHDJArr6xPu-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R2i13-WL7xHDJArr6xPu-75" target="R2i13-WL7xHDJArr6xPu-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R2i13-WL7xHDJArr6xPu-75" target="R2i13-WL7xHDJArr6xPu-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-75" value="1. Verificação" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="441.25" y="920" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-76" value="1. git remote" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="R2i13-WL7xHDJArr6xPu-75">
+          <mxGeometry y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-77" value="2. git log" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="R2i13-WL7xHDJArr6xPu-75">
+          <mxGeometry y="60" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-78" value="2. git diff" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="R2i13-WL7xHDJArr6xPu-75">
+          <mxGeometry y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R2i13-WL7xHDJArr6xPu-81" target="R2i13-WL7xHDJArr6xPu-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R2i13-WL7xHDJArr6xPu-81" target="R2i13-WL7xHDJArr6xPu-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-81" value="2. Correção" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="920" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-82" value="1. git rebase" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="R2i13-WL7xHDJArr6xPu-81">
+          <mxGeometry y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-83" value="2. git reset" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="R2i13-WL7xHDJArr6xPu-81">
+          <mxGeometry y="60" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-84" value="&lt;b&gt;git remote -v&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="120" y="940" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-85" value="&lt;b&gt;git log&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fontStyle=0;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="451.25" y="1080" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-86" value="git diff &amp;lt;commit_antigo&amp;gt; &amp;lt;commit_novo&amp;gt;" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="600" y="940" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-87" value="&lt;b&gt;git rebase&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="920" y="925" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-88" value="&lt;b&gt;git reset&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1399.06" y="925" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-89" value="Criação" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="955" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-90" value="Info RL x RR" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="2220" y="955" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-91" value="Alteração" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="1120" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R2i13-WL7xHDJArr6xPu-92" value="Exclusão" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="2220" y="1120" width="280" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
