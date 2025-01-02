@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Página-1" id="PnfCO375FsDXvBxX3vm0">
-    <mxGraphModel dx="1035" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="733" dy="362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,9 +72,9 @@
         <mxCell id="hST-BHd2oqx7HPo5_Fxf-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-28" target="hST-BHd2oqx7HPo5_Fxf-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hST-BHd2oqx7HPo5_Fxf-34" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hST-BHd2oqx7HPo5_Fxf-31">
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-34" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="hST-BHd2oqx7HPo5_Fxf-31">
           <mxGeometry x="-0.4" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-13" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hST-BHd2oqx7HPo5_Fxf-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-28" target="hST-BHd2oqx7HPo5_Fxf-35">
@@ -82,8 +82,11 @@
         </mxCell>
         <mxCell id="hST-BHd2oqx7HPo5_Fxf-38" value="SIM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="hST-BHd2oqx7HPo5_Fxf-36">
           <mxGeometry x="-0.3128" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-16" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-28" target="hST-BHd2oqx7HPo5_Fxf-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hST-BHd2oqx7HPo5_Fxf-28" value="O bolo está assado?" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="80" width="90" height="90" as="geometry" />
