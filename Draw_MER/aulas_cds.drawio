@@ -1,9 +1,110 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Página-1" id="PnfCO375FsDXvBxX3vm0">
-    <mxGraphModel>
+    <mxGraphModel dx="1035" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="40" width="445" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-7" target="hST-BHd2oqx7HPo5_Fxf-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-7" value="Separar os Ingredientes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="245" y="60" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-11" target="hST-BHd2oqx7HPo5_Fxf-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-11" value="&lt;b id=&quot;docs-internal-guid-5ede7787-7fff-86bc-f74b-21b0d1a336cf&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-weight: normal;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;forced-color-adjust: none; line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-size: 9pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;Lista de Ingredientes:&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;forced-color-adjust: none; line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-size: 9pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;- 2 xícaras (chá) de açúcar&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;forced-color-adjust: none; line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-size: 9pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;- 3 xícaras (chá) de farinha de trigo&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;forced-color-adjust: none; line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-size: 9pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;- 4 colheres (sopa) de margarina&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;forced-color-adjust: none; line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-size: 9pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;- 3 ovos&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;forced-color-adjust: none; line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-size: 9pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;- 1 e ½ xícara de (chá) de leite&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;forced-color-adjust: none; line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-size: 9pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;- 1 colher (sopa) bem cheia de&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;forced-color-adjust: none; line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-size: 9pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;fermento em pó&lt;/span&gt;&lt;/p&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry y="40" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-12" value="&lt;span style=&quot;color: rgb(255, 153, 0); font-family: Arial, sans-serif; font-size: 13.3333px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Entradas&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="10" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-13" target="hST-BHd2oqx7HPo5_Fxf-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-13" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Bater as claras em Neve e reservar&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=default;align=center;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="135" width="90" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-14" target="hST-BHd2oqx7HPo5_Fxf-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-14" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Misturar as gemas, açúcar e margarina&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="210" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-15" target="hST-BHd2oqx7HPo5_Fxf-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-15" value="&lt;b id=&quot;docs-internal-guid-5ede7787-7fff-86bc-f74b-21b0d1a336cf&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-weight: normal;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;forced-color-adjust: none; line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-size: 9pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Acrescente, aos poucos, o leite e a farinha de trigo&lt;/span&gt;&lt;/p&gt;&lt;/b&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="280" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-16" target="hST-BHd2oqx7HPo5_Fxf-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-16" value="&lt;b id=&quot;docs-internal-guid-5ede7787-7fff-86bc-f74b-21b0d1a336cf&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-weight: normal;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;forced-color-adjust: none; line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; white-space-collapse: preserve;&quot;&gt;Acrescente a clara em neve na Massa&lt;/span&gt;&lt;/p&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="350" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-22" target="hST-BHd2oqx7HPo5_Fxf-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-22" value="Despeje a massa em uma forma untada" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="380" y="60" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-24" target="hST-BHd2oqx7HPo5_Fxf-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-24" value="Colque o bolo para assar dentro do forno" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="380" y="135" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-26" target="hST-BHd2oqx7HPo5_Fxf-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="230" />
+              <mxPoint x="480" y="125" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-26" value="Aguarde 40 minutos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="385" y="210" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-28" target="hST-BHd2oqx7HPo5_Fxf-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-34" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hST-BHd2oqx7HPo5_Fxf-31">
+          <mxGeometry x="-0.4" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-28" target="hST-BHd2oqx7HPo5_Fxf-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-38" value="SIM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hST-BHd2oqx7HPo5_Fxf-36">
+          <mxGeometry x="-0.3128" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-28" value="O bolo está assado?" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="80" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-30" value="Aguarde mais 5 minutos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="520" y="210" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-35" value="O bolo está pronto" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="685" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-39" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13.3333px; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot; color=&quot;#ff9900&quot;&gt;&lt;b&gt;Processos&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="10" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-40" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13.3333px; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot; color=&quot;#ff9900&quot;&gt;&lt;b&gt;Saída&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
