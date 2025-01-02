@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Página-1" id="PnfCO375FsDXvBxX3vm0">
-    <mxGraphModel dx="733" dy="362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2200" dy="1085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -107,6 +107,195 @@
         </mxCell>
         <mxCell id="hST-BHd2oqx7HPo5_Fxf-40" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13.3333px; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot; color=&quot;#ff9900&quot;&gt;&lt;b&gt;Saída&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="690" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="530" width="610" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-46" target="hST-BHd2oqx7HPo5_Fxf-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-46" value="Separar os Ingredientes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="302.5" y="550" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-48" target="hST-BHd2oqx7HPo5_Fxf-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-48" value="&lt;b id=&quot;docs-internal-guid-5ede7787-7fff-86bc-f74b-21b0d1a336cf&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-weight: normal;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;forced-color-adjust: none; line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-size: 9pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;Lista de Ingredientes:&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;forced-color-adjust: none; line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-size: 9pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;- 2 xícaras (chá) de açúcar&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;forced-color-adjust: none; line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-size: 9pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;- 3 xícaras (chá) de farinha de trigo&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;forced-color-adjust: none; line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-size: 9pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;- 4 colheres (sopa) de margarina&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;forced-color-adjust: none; line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-size: 9pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;- 3 ovos&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;forced-color-adjust: none; line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-size: 9pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;- 1 e ½ xícara de (chá) de leite&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;forced-color-adjust: none; line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-size: 9pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;- 1 colher (sopa) bem cheia de&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;forced-color-adjust: none; line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-size: 9pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;fermento em pó&lt;/span&gt;&lt;/p&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="57.5" y="530" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-49" value="&lt;span style=&quot;color: rgb(255, 153, 0); font-family: Arial, sans-serif; font-size: 13.3333px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Entradas&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="127.5" y="500" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-51" target="hST-BHd2oqx7HPo5_Fxf-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-51" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Bater as claras em Neve e reservar&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=default;align=center;labelBackgroundColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="297.5" y="625" width="90" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-53" target="hST-BHd2oqx7HPo5_Fxf-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-53" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Misturar as gemas, açúcar e margarina&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=default;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="297.5" y="705" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-55" target="hST-BHd2oqx7HPo5_Fxf-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-55" value="&lt;b id=&quot;docs-internal-guid-5ede7787-7fff-86bc-f74b-21b0d1a336cf&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-weight: normal;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;forced-color-adjust: none; line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-size: 9pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Acrescente, aos poucos, o leite e a farinha de trigo&lt;/span&gt;&lt;/p&gt;&lt;/b&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=default;labelBackgroundColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="630" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-57" target="hST-BHd2oqx7HPo5_Fxf-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-57" value="&lt;b id=&quot;docs-internal-guid-5ede7787-7fff-86bc-f74b-21b0d1a336cf&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-weight: normal;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;forced-color-adjust: none; line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; white-space-collapse: preserve;&quot;&gt;Acrescente a clara em neve na Massa&lt;/span&gt;&lt;/p&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=default;labelBackgroundColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="790" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-59" target="hST-BHd2oqx7HPo5_Fxf-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-59" value="Despeje a massa em uma forma untada" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="625" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-61" target="hST-BHd2oqx7HPo5_Fxf-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-61" value="Colque o bolo para assar dentro do forno" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="697.43" y="550" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-63" target="hST-BHd2oqx7HPo5_Fxf-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-63" value="Aguarde 40 minutos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="702.43" y="635" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-69" target="hST-BHd2oqx7HPo5_Fxf-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-65" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];labelBackgroundColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="hST-BHd2oqx7HPo5_Fxf-64">
+          <mxGeometry x="-0.4" y="-2" relative="1" as="geometry">
+            <mxPoint x="-13" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-69" target="hST-BHd2oqx7HPo5_Fxf-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="755" />
+              <mxPoint x="890" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-67" value="SIM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];labelBackgroundColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="hST-BHd2oqx7HPo5_Fxf-66">
+          <mxGeometry x="-0.3128" y="2" relative="1" as="geometry">
+            <mxPoint x="-68" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-69" target="hST-BHd2oqx7HPo5_Fxf-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-69" value="O bolo está assado?" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="697.4300000000001" y="710" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="742" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="677" y="860" />
+              <mxPoint x="677" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-71" value="Aguarde mais 5 minutos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="697.4300000000001" y="840" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-72" value="O bolo está pronto" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="530" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-73" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13.3333px; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot; color=&quot;#ff9900&quot;&gt;&lt;b&gt;Processos&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="477.5" y="500" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-74" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13.3333px; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot; color=&quot;#ff9900&quot;&gt;&lt;b&gt;Saída&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="915" y="500" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-77" target="hST-BHd2oqx7HPo5_Fxf-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-82" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];labelBackgroundColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="hST-BHd2oqx7HPo5_Fxf-80">
+          <mxGeometry x="-0.2258" y="2" relative="1" as="geometry">
+            <mxPoint x="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-77" target="hST-BHd2oqx7HPo5_Fxf-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="825" />
+              <mxPoint x="420" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-77" value="A massa está homogênea?" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="295.5" y="780" width="92" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-79" target="hST-BHd2oqx7HPo5_Fxf-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="930" />
+              <mxPoint x="270" y="825" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-79" value="Misture os ingredientes até que a massa fique homogenea" style="whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-84" target="hST-BHd2oqx7HPo5_Fxf-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-84" value="Continue misturando a massa" style="whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="550" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-88" target="hST-BHd2oqx7HPo5_Fxf-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-88" value="Continue misturando a massa" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="710" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-91" target="hST-BHd2oqx7HPo5_Fxf-93">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-91" value="Unte a forma com manteiga" style="whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=none;gradientColor=none;labelBackgroundColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="442.5" y="870" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-93" target="hST-BHd2oqx7HPo5_Fxf-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-93" value="Passe farinha de trigo na forma untada" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=none;gradientColor=none;labelBackgroundColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="550" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-97" target="hST-BHd2oqx7HPo5_Fxf-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-97" value="Ligue o Forno" style="whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="567.5" y="712.5" width="85" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-99" target="hST-BHd2oqx7HPo5_Fxf-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-99" value="Ajuste a temperatura para 180ºC" style="whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="790" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="hST-BHd2oqx7HPo5_Fxf-101" target="hST-BHd2oqx7HPo5_Fxf-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="903" />
+              <mxPoint x="660" y="575" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hST-BHd2oqx7HPo5_Fxf-101" value="Aguarde 10 minutos com o forno ligado" style="whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="880" width="90" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
