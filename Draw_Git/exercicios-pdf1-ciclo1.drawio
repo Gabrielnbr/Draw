@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.2">
   <diagram name="Página-1" id="0qtDPg-XPkaElGB9iw3Y">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zEi2aZbb0SGyR5O4OHdj-1" value="&lt;font style=&quot;color: rgb(255, 128, 0);&quot;&gt;Entrada&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zEi2aZbb0SGyR5O4OHdj-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zEi2aZbb0SGyR5O4OHdj-2" target="zEi2aZbb0SGyR5O4OHdj-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEi2aZbb0SGyR5O4OHdj-2" value="Digite os números:&lt;div&gt;VALOR A&lt;/div&gt;&lt;div&gt;VALOR B&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zEi2aZbb0SGyR5O4OHdj-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zEi2aZbb0SGyR5O4OHdj-3" target="zEi2aZbb0SGyR5O4OHdj-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEi2aZbb0SGyR5O4OHdj-3" value="Soma = ValorA + ValorB" style="whiteSpace=wrap;html=1;rounded=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="75" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zEi2aZbb0SGyR5O4OHdj-5" value="Exiba o resultado da {Soma}" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="75" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zEi2aZbb0SGyR5O4OHdj-7" value="&lt;font style=&quot;color: rgb(255, 128, 0);&quot;&gt;Processo&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zEi2aZbb0SGyR5O4OHdj-8" value="&lt;font style=&quot;color: rgb(255, 128, 0);&quot;&gt;Saída&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
